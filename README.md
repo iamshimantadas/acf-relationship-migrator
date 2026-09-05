@@ -10,6 +10,9 @@
 
 ACF Relationship Migrator is a powerful WordPress plugin that allows you to batch migrate ACF relationship fields between websites without relying on WordPress post IDs. This plugin uses stable migration keys (post type + slug) to maintain relationships across different environments.
 
+## 📋 Required JSON file download extension
+Please download this extension from chrome webstore: https://chromewebstore.google.com/detail/json-beautifier-and-edito/lpopeocbeepakdnipejhlpcmifheolpl?pli=1
+
 ### Supported ACF Field Types
 
 - **Post Object** - Single or multiple post references
